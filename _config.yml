@@ -37,13 +37,13 @@ permalink: pretty
 defaults:
   -
     scope:
-      path: ""
+      path: "/fur-jekyll-template/"
       type: "products"
     values:
       layout: "product"
   -
     scope:
-      path: ""
+      path: "/fur-jekyll-template/"
     values:
       layout: "page"
   -
